@@ -6,8 +6,7 @@ const menu = [
     category: "breakfast",
     price: 15.99,
     img: "./menu item pics/item-1.jpeg",
-    desc: `Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime,
-    aut?`,
+    desc: `Buttery milky, and fluffy goodness with our in house maple syrup straight from Canada`,
   },
   {
     id: 2,
@@ -15,8 +14,7 @@ const menu = [
     category: "lunch",
     price: 17.99,
     img: "./menu item pics/item-2.jpeg",
-    desc: `Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime,
-    aut?`,
+    desc: `This plump and juicy turkey bacon burger will fill your mouth with joy. A side of your choice (fries, coleslaw or salad)`,
   },
   {
     id: 3,
@@ -24,8 +22,7 @@ const menu = [
     category: "breakfast",
     price: 9.99,
     img: "./menu item pics/item-4.jpeg",
-    desc: `Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime,
-    aut?`,
+    desc: `The classic eggs and toast, with coffee or tea, your choice.`,
   },
   {
     id: 4,
@@ -33,8 +30,7 @@ const menu = [
     category: "lunch",
     price: 13.99,
     img: "./menu item pics/item-5.jpeg",
-    desc: `Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime,
-    aut?`,
+    desc: `Looks like a regular burger, tastes like a regular burger, but is completely vegan friendly!`,
   },
   {
     id: 5,
@@ -42,8 +38,7 @@ const menu = [
     category: "lunch",
     price: 10.99,
     img: "./menu item pics/item-8.jpeg",
-    desc: `Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime,
-    aut?`,
+    desc: `The classic burger with a side of fries and sauce of your choice`,
   },
   {
     id: 6,
@@ -51,8 +46,7 @@ const menu = [
     category: "dinner",
     price: 21.99,
     img: "./menu item pics/item-10.jpeg",
-    desc: `Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime,
-    aut?`,
+    desc: `Our only dinner menu, cooked to your liking`,
   },
   {
     id: 7,
